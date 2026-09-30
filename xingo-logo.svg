@@ -1,0 +1,8 @@
+<svg width="560" height="144" viewBox="0 0 560 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="8" y="8" width="128" height="128" rx="34" fill="#C8F65D"/>
+  <ellipse cx="73" cy="73" rx="49" ry="24" transform="rotate(-24 73 73)" stroke="#101512" stroke-width="5" stroke-linecap="round" stroke-dasharray="102 22"/>
+  <path d="M50 46L72 71L95 45H109L80 77L109 110H90L70 86L48 110H33L62 79L32 46H50Z" fill="#101512"/>
+  <circle cx="111" cy="36" r="9" fill="#101512" stroke="#C8F65D" stroke-width="5"/>
+  <text x="166" y="84" fill="#101512" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="5">XINGO</text>
+  <text x="171" y="112" fill="#758078" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="6">LANGUAGE STUDIO</text>
+</svg>

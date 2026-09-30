@@ -1,0 +1,59 @@
+{
+  "version": "2026-07-27-clear",
+  "generated": [
+    {
+      "id": "hidden-city",
+      "duration": 78,
+      "sampleRate": 44100,
+      "channels": 1,
+      "codec": "AAC",
+      "voice": "Samantha",
+      "rate": 155
+    },
+    {
+      "id": "slow-morning",
+      "duration": 65,
+      "sampleRate": 44100,
+      "channels": 1,
+      "codec": "AAC",
+      "voice": "Samantha",
+      "rate": 155
+    },
+    {
+      "id": "design-better",
+      "duration": 72,
+      "sampleRate": 44100,
+      "channels": 1,
+      "codec": "AAC",
+      "voice": "Samantha",
+      "rate": 155
+    },
+    {
+      "id": "coffee-route",
+      "duration": 84,
+      "sampleRate": 44100,
+      "channels": 1,
+      "codec": "AAC",
+      "voice": "Samantha",
+      "rate": 155
+    },
+    {
+      "id": "restorative-walk",
+      "duration": 76,
+      "sampleRate": 44100,
+      "channels": 1,
+      "codec": "AAC",
+      "voice": "Samantha",
+      "rate": 155
+    },
+    {
+      "id": "living-river",
+      "duration": 82,
+      "sampleRate": 44100,
+      "channels": 1,
+      "codec": "AAC",
+      "voice": "Samantha",
+      "rate": 155
+    }
+  ]
+}

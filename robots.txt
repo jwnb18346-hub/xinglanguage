@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jwnb18346-hub.github.io/xinglanguage/sitemap.xml
