@@ -1,5 +1,5 @@
 const BASE_PATH = new URL(self.registration.scope).pathname.replace(/\/$/, '');
-const CACHE_NAME = `xingo-v60-${BASE_PATH || 'root'}`;
+const CACHE_NAME = `xingo-v61-${BASE_PATH || 'root'}`;
 const APP_SHELL = ['/', '/manifest.json', '/xingo-mark.svg', '/xingo-logo.svg', '/icon-192.png', '/icon-512.png', '/icon-maskable-192.png', '/icon-maskable-512.png'];
 
 self.addEventListener('install', (event) => {
